@@ -1,0 +1,56 @@
+<{>
+<string, "name">
+<:>
+<string, "Michael">
+<,>
+<string, "age">
+<:>
+<number, 999>
+<,>
+<string, "isStudent">
+<:>
+<true>
+<,>
+<string, "courses">
+<:>
+<[>
+<string, "CSCI 2134">
+<,>
+<string, "CSCI 2141">
+<,>
+<string, "CSCI 2110">
+<,>
+<string, "CSCI 2115">
+<,>
+<string, "PSYO 1030">
+<]>
+<,>
+<string, "grades">
+<:>
+<{>
+<string, "2134">
+<:>
+<number, 97.6>
+<,>
+<string, "2141">
+<:>
+<number, 94.5>
+<,>
+<string, "2110">
+<:>
+<number, 99>
+<,>
+<string, "2115">
+<:>
+<number, 97>
+<,>
+<string, "1030">
+<:>
+<number, 83>
+<}>
+<,>
+<string, "randomNullValue">
+<:>
+<null>
+<}>
+<EOF>

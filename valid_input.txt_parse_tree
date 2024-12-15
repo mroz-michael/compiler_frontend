@@ -1,0 +1,86 @@
+value
+  dict
+    {
+    pair
+      STRING: "name"
+    :
+    value
+      STRING: "Michael"
+    ,
+    pair
+      STRING: "age"
+    :
+    value
+      NUMBER: 999
+    ,
+    pair
+      STRING: "isStudent"
+    :
+    value
+      true
+    ,
+    pair
+      STRING: "courses"
+    :
+    value
+      list
+        [
+        value
+          STRING: "CSCI 2134"
+        ,
+        value
+          STRING: "CSCI 2141"
+        ,
+        value
+          STRING: "CSCI 2110"
+        ,
+        value
+          STRING: "CSCI 2115"
+        ,
+        value
+          STRING: "PSYO 1030"
+        ]
+      ,
+      pair
+        STRING: "grades"
+      :
+      value
+        dict
+          {
+          pair
+            STRING: "2134"
+          :
+          value
+            NUMBER: 97.6
+          ,
+          pair
+            STRING: "2141"
+          :
+          value
+            NUMBER: 94.5
+          ,
+          pair
+            STRING: "2110"
+          :
+          value
+            NUMBER: 99
+          ,
+          pair
+            STRING: "2115"
+          :
+          value
+            NUMBER: 97
+          ,
+          pair
+            STRING: "1030"
+          :
+          value
+            NUMBER: 83
+          }
+        ,
+        pair
+          STRING: "randomNullValue"
+        :
+        value
+          null
+    }

@@ -4,7 +4,7 @@ This compiler frontend works on a JSON-like Language. This project was originall
 
 ## Usage
 
-running python3 compile.py will prompt the user to enter a txt file. if the file given exists, the 
+running python3 compiler.py will prompt the user to enter a txt file. if the file given exists, the 
 front end compiler will attempt to tokenize the txt file, producing a token stream, which is then fed into
 the parser, which produces a parse tree as output.
 
