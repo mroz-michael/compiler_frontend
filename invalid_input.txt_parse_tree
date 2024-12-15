@@ -1,0 +1,28 @@
+value
+  list
+    [
+    value
+      NUMBER: 1
+    ,
+    value
+      NUMBER: 2
+    ,
+    value
+      dict
+        {
+        pair
+          STRING: "hi"
+        :
+        value
+          true
+        ,
+        pair
+          STRING: "no"
+        :
+        value
+          false
+        }
+    ]
+Parsing Error: Received token ] expected token type: } at position: 13
+Parsing resumed with token: } at position 14, tokens lost: 1
+Fixing unclosed list inserting ]

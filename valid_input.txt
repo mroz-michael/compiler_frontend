@@ -1,0 +1,20 @@
+{
+  "name": "Michael",
+  "age": 999,
+  "isStudent": true,
+  "courses": [
+    "CSCI 2134",
+    "CSCI 2141",
+    "CSCI 2110",
+    "CSCI 2115",
+    "PSYO 1030"
+  ],
+  "grades": {
+    "2134": 97.6,
+    "2141": 94.5,
+    "2110": 99,
+    "2115": 97,
+    "1030": 83
+  },
+  "randomNullValue": null
+}
